@@ -32,4 +32,6 @@ target 'Bleach' do
 
   use_unimodules!
 
+  pod 'react-native-ble-plx', :path => '../node_modules/react-native-ble-plx'
+
 end
